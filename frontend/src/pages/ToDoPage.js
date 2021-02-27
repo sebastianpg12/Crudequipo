@@ -17,7 +17,7 @@ const StoreProvider = ({ children }) => {
 
 function ToDoPage() {
     return <StoreProvider>
-        <h3 className="todoList"><Link to="/" className="btn-link">Home</Link>  / To-Do List</h3>
+        <h3>ToDo</h3>
         <Form params={Store} />
         <List params={Store} />
     </StoreProvider>

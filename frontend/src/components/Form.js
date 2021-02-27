@@ -111,8 +111,8 @@ const Form = (params) => {
                 }}  ></input>
 
             <div className="containerButtons">
-                {item.id && <button className="buttons buttonUpdate"  onClick={onEdit}><span>Actualizar</span><div className="liquid"></div></button>}
-                {!item.id && <button className="buttons" onClick={onAdd}><span>Crear</span><div className="liquid"></div></button>}
+                {item.id && <button className="buttons buttonUpdate"  onClick={onEdit}><span>Actualizar</span><div ></div></button>}
+                {!item.id && <button className="buttons" onClick={onAdd}><span>Crear</span><div ></div></button>}
             </div>
         </div>
     </form>

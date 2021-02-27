@@ -5,37 +5,7 @@ function ParticlesJS() {
   return ( 
     <div className="ParticlesJS"> 
       
-      
-    </div> 
-  ); 
-} 
-   
-export default ParticlesJS;
-      
-    </div> 
-  ); 
-} 
-   
-export default ParticlesJS;
-      
-    </div> 
-  ); 
-} 
-   
-export default ParticlesJS;
-      
-    </div> 
-  ); 
-} 
-   
-export default ParticlesJS;
-      
-    </div> 
-  ); 
-} 
-   
-export default ParticlesJS;
-      
+    
     </div> 
   ); 
 } 
